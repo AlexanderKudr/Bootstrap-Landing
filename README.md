@@ -1,2 +1,2 @@
 # Bootstrap-Landing
-Polished langind for "Akiko"
+Polished landing for "Akiko"
