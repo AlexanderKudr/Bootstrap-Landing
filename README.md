@@ -1,2 +1,2 @@
 # Bootstrap-Landing
-Polished landing for "Akiko"
+Helped "Akiko" to finish her site for uni.
